@@ -8,8 +8,8 @@ Synthetic data for model selection (Fitz et al., 2021). Synthetic generation pip
 
 FFPDG: Fast, Fair and Private Data Generation (Amazon Research, 2021 Workshop 2022 Conference). The authors explicitly take into account the effects of fairness and computational resources while generating data for training and validation purposes. Note that they also show how to impose a privacy constraint.
 
-https://https://github.com/BorealisAI/ private-data-generation, 2019 -- private data generation repository
+https://github.com/BorealisAI/ private-data-generation, 2019 -- private data generation repository
 
-Fair-max-entropy-distributions https://https://github.com/vijaykeswani, 2020 -- fair maximum entropy distribution that describes a set of metrics against which sampled/synthetic data is measured to ensure maximum of the distributional span within fairness constraints.
+Fair-max-entropy-distributions https://github.com/vijaykeswani, 2020 -- fair maximum entropy distribution that describes a set of metrics against which sampled/synthetic data is measured to ensure maximum of the distributional span within fairness constraints.
 
 Optimized data pre-processing for discrimination prevention. This paper provides methods that can be adapted to synthetic data generation for smoothing out biases and overweights on certain elements of the distribution. While not explicitly applied to synthetic data generation in the paper, the methods are transferable between tasks.
